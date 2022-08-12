@@ -3,9 +3,9 @@
 ---
 ## Problem Description
 
-**An API exists to communicate with another program. This ToDo API should allow users to create a to-do, modify an existing to-do, see the list of all to-do created, retrieve a particular todo, and delete a todo. 
+An API exists to communicate with another program. This ToDo API should allow users to create a to-do, modify an existing to-do, see the list of all to-do created, retrieve a particular todo, and delete a todo. 
 
-The user should be able to perform the CRUD(Create-Read-Update-Delete) functionality**
+The user should be able to perform the CRUD(Create-Read-Update-Delete) functionality
 
 ### Implementation I
 
