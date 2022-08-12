@@ -11,7 +11,7 @@ The user should be able to perform the CRUD(Create-Read-Update-Delete) functiona
 
 Follow the steps below to run this programe:
 
-- Clone this repository on [github](https://www.github.com/) to your local machine.
+- Clone this repository on [github](https://github.com/PaulPextra/simple_todo-_api.git) to your local machine.
 - Open the program folder on your code editor.
 - Create a `virtual environment` and activate it.
 - Install the `requirements.txt` file using the command:
